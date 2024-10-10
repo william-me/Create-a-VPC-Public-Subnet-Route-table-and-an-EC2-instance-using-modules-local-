@@ -5,6 +5,7 @@ and an EC2 instance using reusable modules.
 
 ## Module Description
 Network Module: Provisions a VPC, public subnet, and an Internet Gateway (IGW) for enabling internet access to resources in the subnet.
+
 EC2 Module: Provisions an EC2 instance within the public subnet and associates a public IP address.
 
 
